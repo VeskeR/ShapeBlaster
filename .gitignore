@@ -1,0 +1,40 @@
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Unity generated
+UnityGenerated/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+ 
+# Visual Studio / MonoDevelop generated
+ 
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmp
+
+# Unity3D generated meta files
+*.pidb.meta
+ 
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Other files
+*.zip
